@@ -10,9 +10,10 @@ Original file is located at
 #-------------------------------------------------------------------------
 # AUTHOR: Noah Ojeda
 # FILENAME: knn.py
-# SPECIFICATION: description of the program
-# FOR: CS 4210- Assignment #2
-# TIME SPENT:
+# # SPECIFICATION: Computes 1-NN Leave-One-Out Cross-Validation error rate
+#   for spam/ham classification using the file 'email_classification.csv'.
+# FOR: CS 4210 - Assignment #2
+# TIME SPENT: ~30 minutes
 #-----------------------------------------------------------*/
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
 #Importing some Python libraries
